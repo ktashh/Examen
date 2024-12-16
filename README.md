@@ -46,24 +46,36 @@ Actividades Realizadas
 
 ·Visualización de distribuciones y correlaciones entre variables.
 
-3. Reducción de Dimensionalidad con PCA:
+2. Reducción de Dimensionalidad con PCA:
+   
 ·Aplicación del algoritmo PCA para reducir la complejidad del dataset.
+
 ·Visualización de los componentes principales y explicación de su varianza.
 
-4. Gestión con Git y GitHub:
+3. Gestión con Git y GitHub:
+
 ·Configuración del repositorio local con Git.
+
 ·Creación de ramas (main y pca_analysis) para estructurar el flujo de trabajo.
+
 ·Subida del proyecto a GitHub para un manejo eficiente del control de versiones.
 
 Tecnologías Usadas
+
 ·Python
+
 ·Jupyter Notebook
+
 ·Scikit-learn
+
 ·Matplotlib
+
 ·Pandas
+
 ·Git y GitHub
 
 Instrucciones para Reproducir el Proyecto
+
 1. Clonar el repositorio desde GitHub:
    
 git clone https://github.com/Usuario/Ciencias_de_Datos.git
