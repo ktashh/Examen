@@ -8,20 +8,35 @@ Descripción del Dataset
 El dataset ingresos.txt contiene información sobre 1,816 individuos y 14 variables, que incluyen:
 
 ·estatura: Estatura en centímetros.
+
 ·peso: Peso en kilogramos.
+
 ·género: Masculino/Femenino.
+
 ·ingresos: Ingresos anuales en dólares.
+
 ·etnia: Clasificación étnica.
+
 ·educacion: Años de educación del individuo.
+
 ·educacion_madre: Años de educación de la madre.
+
 ·educacion_padre: Años de educación del padre.
+
 ·camina: Frecuencia de caminata al trabajo (escala de 1 a 8).
+
 ·ejercicio: Días a la semana que realiza ejercicio.
+
 ·fumador: Si fuma (1: Sí, 2: No).
+
 ·tenso: Días en estado de tensión.
+
 ·malhumorado: Días de la semana en dicho estado.
+
 ·edad: Edad del individuo.
-·Actividades Realizadas
+
+
+Actividades Realizadas
 
 1. Análisis Exploratorio de Datos (EDA):
 ·Descripción general del dataset.
