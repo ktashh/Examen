@@ -39,15 +39,18 @@ El dataset ingresos.txt contiene información sobre 1,816 individuos y 14 variab
 Actividades Realizadas
 
 1. Análisis Exploratorio de Datos (EDA):
+
 ·Descripción general del dataset.
+
 ·Transformación e imputación de datos faltantes.
+
 ·Visualización de distribuciones y correlaciones entre variables.
 
-2. Reducción de Dimensionalidad con PCA:
+3. Reducción de Dimensionalidad con PCA:
 ·Aplicación del algoritmo PCA para reducir la complejidad del dataset.
 ·Visualización de los componentes principales y explicación de su varianza.
 
-3. Gestión con Git y GitHub:
+4. Gestión con Git y GitHub:
 ·Configuración del repositorio local con Git.
 ·Creación de ramas (main y pca_analysis) para estructurar el flujo de trabajo.
 ·Subida del proyecto a GitHub para un manejo eficiente del control de versiones.
