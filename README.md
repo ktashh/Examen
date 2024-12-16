@@ -65,14 +65,17 @@ Tecnologías Usadas
 
 Instrucciones para Reproducir el Proyecto
 1. Clonar el repositorio desde GitHub:
+   
 git clone https://github.com/Usuario/Ciencias_de_Datos.git
 
 2. Instalar las librerías necesarias:
+   
 pip install pandas scikit-learn matplotlib
 
 3. Ejecutar el cuaderno analisis_datos.ipynb en Jupyter Notebook o Google Colab.
 
 Conclusión
+
 En este proyecto se realizó un análisis del conjunto de datos ingresos.txt, aplicando técnicas de Análisis Exploratorio de Datos (EDA) y reducción de dimensionalidad mediante el algoritmo PCA. El proceso permitió identificar patrones significativos y simplificar la estructura de los datos al concentrar la mayor parte de la varianza en un menor número de componentes principales.
 
 Además, se implementó una gestión adecuada del flujo de trabajo utilizando Git y GitHub, facilitando la organización, el control de versiones y la colaboración en el desarrollo del proyecto. La estructura del repositorio y el uso de ramas garantizan un manejo eficiente de las etapas de desarrollo y análisis.
