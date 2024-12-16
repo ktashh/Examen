@@ -1,5 +1,7 @@
 EXAMEN CIENCIA DE DATOS PARA LA ECONOMÍA
+
 Proyecto de Análisis de Ingresos
+
 Este proyecto tiene como objetivo analizar un conjunto de datos relacionado con los ingresos anuales, utilizando técnicas de Análisis Exploratorio de Datos (EDA) y Reducción de Dimensionalidad mediante PCA.
 
 Descripción del Dataset
